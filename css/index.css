@@ -76,6 +76,10 @@
   display: flex;
   justify-content: center;
 }
+#email-container a:hover{
+  color: var(--main-color);
+  font-weight: bold;
+}
 #email-container ion-icon,
 #email-container a {
   flex: 1 1 0;
