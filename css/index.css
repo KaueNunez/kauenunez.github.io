@@ -79,6 +79,7 @@
 #email-container a:hover{
   color: var(--main-color);
   font-weight: bold;
+  transition: 0.1s;
 }
 #email-container ion-icon,
 #email-container a {
