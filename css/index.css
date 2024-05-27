@@ -148,6 +148,9 @@
   font-size: 45px;
   margin-right: 10px;
 }
+.devicon{
+  cursor: pointer;
+}
 
 /* RESPONSIVEL */
 /* CELULAR */
